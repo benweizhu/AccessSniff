@@ -38,7 +38,7 @@
     "bluebird": "^3.3.1",
     "chalk": "^1.1.1",
     "commander": "^2.6.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "phantomjs-prebuilt": "^2.1.4",
     "underscore": "^1.8.2",
     "validator": "^5.0.0"
