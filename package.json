@@ -36,7 +36,7 @@
     "HTML_CodeSniffer": "squizlabs/HTML_CodeSniffer#2.0.7",
     "axios": "^0.9.1",
     "bluebird": "^3.3.1",
-    "chalk": "^1.1.1",
+    "chalk": "^2.0.0",
     "commander": "^2.6.0",
     "mkdirp": "^0.5.1",
     "phantomjs-prebuilt": "^2.1.4",
